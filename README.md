@@ -1,3 +1,3 @@
 <div align="center">
-  <samp>¡HALA MADRID!</samp>
+  <samp>¡HALA MADRID! 🤍</samp>
 </div>
